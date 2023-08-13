@@ -42,3 +42,10 @@
       2. Add ts
       3. Add html
       4. Add css
+8. Food Page
+   1. Add method to food service
+   2. Generate Food page component
+      1. Add Route
+      2. Add ts
+      3. Add html
+      4. Add css
